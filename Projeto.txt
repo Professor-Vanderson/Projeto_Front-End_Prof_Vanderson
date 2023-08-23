@@ -1,0 +1,5 @@
+- Pesquisar sobre como escrever o documento de requisitos;
+
+	- Baseando-se na História entregue na disciplina Desenvolvimento Web(prof.Israel), escrever os requisitos funcionais e não funcionais para este projeto.
+
+	- Escrever ao menos 25 requisitos funcionais e 10 não funcionais.
